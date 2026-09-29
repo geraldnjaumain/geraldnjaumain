@@ -1,5 +1,5 @@
 <h3 align="center">Hello, my name is Gerald, and I am a software developer.</h3>
-<br/>
+
 
 <h4 align="center">My toolbox</h4>
 
