@@ -5,8 +5,6 @@
 
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" hspace="6" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" hspace="6" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" hspace="6" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" hspace="6" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" hspace="6" /></a>
@@ -19,7 +17,9 @@
 <p align="center">
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go" hspace="6" /></a>
   <a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" hspace="6" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" alt="Python" hspace="6" /></a>
   <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django" hspace="6" /></a>
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" hspace="6" /></a>
   <a href="https://www.swift.org/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" hspace="6" /></a>
   <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" hspace="6" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" hspace="6" /></a>
